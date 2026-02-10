@@ -72,7 +72,10 @@ sidebar: generateSidebar(
       }))
     ),
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/tangxiaoyi97/p2' },
+      { icon: 'discord', link: 'https://discord.gg/byDV7RpK' },
+      { icon: 'buymeacoffee', link: 'https://buymeacoffee.com/tangxy97' }
+
     ]
   }
 })
