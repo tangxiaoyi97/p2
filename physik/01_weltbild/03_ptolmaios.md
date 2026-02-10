@@ -1,5 +1,5 @@
 ---
-title: 03 Ptolemaios
+title: Ptolemaios
 ---
 *~100 AD.*
 

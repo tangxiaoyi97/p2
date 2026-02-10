@@ -5,12 +5,12 @@
     "docs:preview": "vitepress preview ."
   },
   "dependencies": {
-    "vp-raspberry": "github:tangxiaoyi97/vitepress-Raspberry-theme#master",
-    "vue": "^3.5.27",
     "katex": "^0.16.28",
     "markdown-it-mark": "^4.0.0",
     "markdown-it-texmath": "^1.0.0",
-    "vitepress-sidebar": "^1.33.1"
+    "vitepress-sidebar": "^1.33.1",
+    "vp-raspberry": "github:tangxiaoyi97/vitepress-Raspberry-theme#master",
+    "vue": "^3.5.27"
   },
   "devDependencies": {
     "@types/node": "^25.2.3",

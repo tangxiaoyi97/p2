@@ -1,5 +1,5 @@
 ---
-title: 07 Kepler
+title: Kepler
 ---
 
 *1571-1630*

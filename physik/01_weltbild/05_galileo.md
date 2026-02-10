@@ -1,5 +1,5 @@
 ---
-title: 05 Galileo
+title: Galileo
 ---
 
 *1564-1642*

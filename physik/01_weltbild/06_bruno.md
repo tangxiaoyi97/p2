@@ -1,5 +1,5 @@
 ---
-title: 06 Bruno
+title: Bruno
 ---
 
 *1548-1600*

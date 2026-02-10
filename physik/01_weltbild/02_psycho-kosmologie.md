@@ -1,5 +1,5 @@
 ---
-title: 02 Psycho - Kosmologie
+title: Psycho - Kosmologie
 ---
 
 

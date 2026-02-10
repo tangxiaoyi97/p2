@@ -1,5 +1,5 @@
 ---
-title: 08 Newton & Einstein
+title: Newton & Einstein
 ---
 
 *1643-1727* & *1915*

@@ -1,5 +1,5 @@
 ---
-title: 04 Kopernikus
+title: Kopernikus
 ---
 *1473-1543*
 

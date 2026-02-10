@@ -12,19 +12,23 @@ const firstfile = (subDir: string) => {
   const docsRoot = '.'
   const fullPath = path.resolve(process.cwd(), docsRoot, subDir)
   
+  // 获取路径的最后一部分，即文件夹名（例如 '01_weltbild'）
+  const folderName = path.basename(subDir)
+  
   try {
-    console.log(`Checking path: ${fullPath}`) 
-    
-    if (!fs.existsSync(fullPath)) {
-      console.warn(`Directory not found: ${fullPath}`)
-      return '#'
-    }
+    if (!fs.existsSync(fullPath)) return '#'
     
     const files = fs.readdirSync(fullPath)
-      .filter(file => file.endsWith('.md') && !file.toLowerCase().includes('index'))
+      .filter(file => {
+        const isMd = file.endsWith('.md');
+        const isIndex = file.toLowerCase().includes('index');
+        const isSameName = file.replace('.md', '') === folderName;
+        
+        return isMd && !isIndex && !isSameName;
+      })
       .sort()
     
-    return files.length > 0 ? `/${subDir}/${files[0].replace('.md', '')}` : '#'
+    return files.length > 0 ? `${subDir}/${files[0].replace('.md', '')}` : '#'
   } catch (e) {
     return '#'
   }
@@ -69,6 +73,11 @@ sidebar: generateSidebar(
         hyphenToSpace: true,
         sortByFileName: true,
         underscoreToSpace: true,
+        capitalizeFirst: true,
+        includeRootIndexFile: false,
+        removePrefixAfterMatch: true, 
+        prefixSeparator: '_',
+        useFolderLinkFromSameNameSubFile: true,
       }))
     ),
     socialLinks: [
@@ -79,3 +88,4 @@ sidebar: generateSidebar(
     ]
   }
 })
+
