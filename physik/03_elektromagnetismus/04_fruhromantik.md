@@ -14,6 +14,6 @@ Kritik an der mechanistischen und stark aufgeteilten Denkweise der Aufklärung
 
 ## Volta
 
-Volta baut Batterie auf die grundlagen von [Galvani](../03%20elektromagnetismus/03%20galvani.md).  
-Batterie besteht aus: 2 **Verschiedene** Metalle + Elektrolyt *(Strom leitende Flüssigkeit)*. Es ist eine Zuverlässige Energiequelle, liefert stabiler und länger strom als [Influenzmaschine](../03%20elektromagnetismus/02%20neuzeit.md).  
+Volta baut Batterie auf die grundlagen von [Galvani](../03_elektromagnetismus/03_galvani.md).  
+Batterie besteht aus: 2 **Verschiedene** Metalle + Elektrolyt *(Strom leitende Flüssigkeit)*. Es ist eine Zuverlässige Energiequelle, liefert stabiler und länger strom als [Influenzmaschine](../03_elektromagnetismus/02_neuzeit.md).  
 Seitdem hat die wissenschaftliche Erforschung elektrischer und magnetischer Phänomene stark zugenommen.

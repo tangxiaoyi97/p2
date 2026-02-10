@@ -13,7 +13,7 @@ Die Gesammtheit diese Leitungselektronen wird auch als **Elektronengas** bezeich
 ## Isolatoren  
 **Isolatore** *(Nichtleiter)* ==haben keine freie Ladungsträger== *(weder Elektronen noch Ionen)*, deshab kann sich bei relativ kleine Spannung keine stromfluss bilden.  
 Unter spezielle Bedingungen *(z.B. hoche spannung)* kann Isolatoren zu Leiter gemacht werden.  
-Ein Beispiel hierfür ist die [Influenzmaschiene](../03%20elektromagnetismus/02%20neuzeit.md), bei der die Luft zwischen zwei Metallstücken leitend gemacht wird.
+Ein Beispiel hierfür ist die [Influenzmaschiene](../03_elektromagnetismus/02_neuzeit.md), bei der die Luft zwischen zwei Metallstücken leitend gemacht wird.
 
 ## Elektrolyte
 **Elektrolyte** sind flüssigkeiten, die Strom leiten (z.B. Saltzwasser).  

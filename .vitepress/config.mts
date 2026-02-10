@@ -10,13 +10,20 @@ import markdownItMark from 'markdown-it-mark'
 
 const firstfile = (subDir: string) => {
   const docsRoot = '.'
-  const fullPath = path.join(process.cwd(), docsRoot, subDir)
+  const fullPath = path.resolve(process.cwd(), docsRoot, subDir)
   
   try {
-    if (!fs.existsSync(fullPath)) return '#'
+    console.log(`Checking path: ${fullPath}`) 
+    
+    if (!fs.existsSync(fullPath)) {
+      console.warn(`Directory not found: ${fullPath}`)
+      return '#'
+    }
+    
     const files = fs.readdirSync(fullPath)
       .filter(file => file.endsWith('.md') && !file.toLowerCase().includes('index'))
       .sort()
+    
     return files.length > 0 ? `/${subDir}/${files[0].replace('.md', '')}` : '#'
   } catch (e) {
     return '#'

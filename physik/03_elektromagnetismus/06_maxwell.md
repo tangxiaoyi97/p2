@@ -7,7 +7,7 @@ tags:
 ---
 *~1860*  
 
-[Faradays Vermutung](../03%20elektromagnetismus/05%20orsted-faraday.md): Es gibt elektrische und magnetische Felder.   
+[Faradays Vermutung](../03_elektromagnetismus/05_orsted-faraday.md): Es gibt elektrische und magnetische Felder.   
 Maxwell glaubt an diese Felder und unterstützt Faradays Idee.
 
 
