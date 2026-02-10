@@ -49,7 +49,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/physik' },
       { text: 'Weltbild', link: firstfile('physik/01 weltbild') },
-      { text: 'Elektrizität', link: firstfile('physik/02 elektrizität') },
+      { text: 'Elektrizität', link: firstfile('physik/02 elektrizitaet') },
       { text: 'Elektromagnetismus', link: firstfile('physik/03 elektromagnetismus') },
       { text: 'Gravitationstheorie', link: firstfile('physik/04 gravitationstheorie') }
     ],
