@@ -1,5 +1,5 @@
 ---
-title: 10 Elektrische Widerstand
+title: Elektrische Widerstand
 tags:
   - elektrizität 
   - 7. Klasse

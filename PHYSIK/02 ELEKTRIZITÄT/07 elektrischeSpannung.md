@@ -1,5 +1,5 @@
 ---
-title: 07 Elektrische Spannung
+title: Elektrische Spannung
 tags:
   - elektrizität 
   - 7. Klasse

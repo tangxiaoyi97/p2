@@ -1,5 +1,5 @@
 ---
-title: 06 Blitzschutzmaßnahmen
+title: Blitzschutzmaßnahmen
 tags:
   - elektrizität 
   - 7. Klasse

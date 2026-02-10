@@ -1,5 +1,5 @@
 ---
-title: 04 Leiter und Isolatoren
+title: Leiter und Isolatoren
 tags:
   - elektrizität 
   - 7. Klasse

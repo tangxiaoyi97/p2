@@ -1,5 +1,5 @@
 ---
-title: 09 Elektrische Leistung
+title: Elektrische Leistung
 tags:
   - elektrizität 
   - 7. Klasse

@@ -1,5 +1,5 @@
 ---
-title: 04 Frühromantik
+title: Frühromantik
 tags:
   - elektrizität 
   - magnetismus 

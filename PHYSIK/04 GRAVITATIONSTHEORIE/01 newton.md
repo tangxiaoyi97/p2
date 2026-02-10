@@ -1,5 +1,5 @@
 ---
-title: 01 Newton
+title: Newton
 ---
 
 ## Wiederholung 6. Klasse:

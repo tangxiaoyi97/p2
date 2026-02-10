@@ -1,5 +1,5 @@
 ---
-title: 01 Begriffe Ladung
+title: Begriffe Ladung
 tags:
   - elektrizität 
   - 7. Klasse

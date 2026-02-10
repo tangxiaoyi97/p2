@@ -1,5 +1,5 @@
 ---
-title: 03 Ladungserhaltungssatz
+title: Ladungserhaltungssatz
 tags:
   - elektrizität 
   - 7. Klasse

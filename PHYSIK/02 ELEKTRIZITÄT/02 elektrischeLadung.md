@@ -1,5 +1,5 @@
 ---
-title: 02 Elektrische Ladung
+title: Elektrische Ladung
 tags:
   - elektrizität 
   - 7. Klasse

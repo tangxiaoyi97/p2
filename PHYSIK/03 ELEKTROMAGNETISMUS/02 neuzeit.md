@@ -1,5 +1,5 @@
 ---
-title: 02 Neuzeit
+title: Neuzeit
 tags:
   - elektrizität 
   - magnetismus 

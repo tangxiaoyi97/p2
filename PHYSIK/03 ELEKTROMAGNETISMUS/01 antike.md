@@ -1,5 +1,5 @@
 ---
-title: 01 Antike
+title: Antike
 tags:
   - elektrizität 
   - magnetismus 

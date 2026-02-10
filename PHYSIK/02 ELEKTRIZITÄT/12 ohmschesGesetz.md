@@ -1,5 +1,5 @@
 ---
-title: 12 Ohm'sches Gesetz
+title: Ohm'sches Gesetz
 tags:
   - elektrizität 
   - 7. Klasse

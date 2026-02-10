@@ -1,5 +1,5 @@
 ---
-title: 07 Hertz & Marconi
+title: Hertz & Marconi
 tags:
   - elektrizität 
   - magnetismus 

@@ -1,5 +1,5 @@
 ---
-title: 08 Elektrische Stromstärke
+title: Elektrische Stromstärke
 tags:
   - elektrizität 
   - 7. Klasse

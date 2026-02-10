@@ -1,5 +1,5 @@
 ---
-title: 03 Galvani
+title: Galvani
 tags:
   - elektrizität 
   - magnetismus 

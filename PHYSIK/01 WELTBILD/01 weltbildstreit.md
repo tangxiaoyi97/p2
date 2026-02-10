@@ -8,7 +8,6 @@ Jede Kultur hat ein Weltbild
 sehr wesentlich für die Menschen  
 Unser Weltbild hat sich im Verlauf der Jahrhunderte oft geändert  
 
----
 
 ## Geozentrisches Weltbild  
 **Aristoteles**: nicht von Aristoteles, gab es vorher schon  

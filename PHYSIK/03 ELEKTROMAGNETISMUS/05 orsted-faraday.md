@@ -1,5 +1,5 @@
 ---
-title: 05 Ørsted & Faraday
+title: Ørsted & Faraday
 tags:
   - elektrizität 
   - magnetismus 

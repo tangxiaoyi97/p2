@@ -29,6 +29,7 @@ export default defineConfig({
   title: "Archive",
   description: "Physics Archive",
   head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css' }],
     ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css' }]
   ],
@@ -58,8 +59,6 @@ sidebar: generateSidebar(
         collapsed: true,
         hyphenToSpace: true,
         sortByFileName: true,
-        removePrefixAfterOrdering: true,
-        prefixSeparator: ' ', 
       }))
     ),
     socialLinks: [
