@@ -26,6 +26,7 @@ const firstfile = (subDir: string) => {
 const folders = ['PHYSIK']
 
 export default defineConfig({
+  base: "/p2/",
   title: "Archive",
   description: "Physics Archive",
   head: [
