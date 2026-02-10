@@ -9,6 +9,7 @@ Any content inadvertently infringing on rights will be promptly addressed upon n
 
 **Author**: ww / [唐晓翼](https://github.com/tangxiaoyi97)  
 Powered by [Vitepress](https://github.com/vuejs/vitepress)  
+Theme by [Raspberry](https://github.com/tangxiaoyi97/vitepress-Raspberry-theme)
 
 **Contributors**:  
 @**8b Gesamt** - alle die mich abschreiben lassen  
