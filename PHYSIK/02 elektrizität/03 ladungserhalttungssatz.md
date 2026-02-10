@@ -1,0 +1,15 @@
+---
+title: Ladungserhaltungssatz
+tags:
+  - elektrizität 
+  - 7. Klasse
+---
+
+==In einen Abgeschlossenen System bleibt die Summe der elektrischen Ladung stets konstant==. Das Wort "Summe" ist deshalb wichtig, weil bei hochenergetischen Prozessen *(z.B. Radioaktive Zerfall)*, Teilchen und damit Ladungen vernichtet bzw. erzeugt werden können. Die Gesamtmenge der Ladung bleibt jedoch bei diesem Prozess stets gleich.
+
+**Beispiel:$β^-$Zerfall**  
+
+>$n^0 \to p^+ + e^- + \bar{\nu}_e$
+
+Ein Neutron $n^0$ *($0e$)* zerfällt zu ein Proton$p^+$*($+e$)* + ein Elektron$e^-$*($-e$)* + ein Anti-Elektron-Neutrino$\bar{\nu}_e$*($0e$)*.  
+Also:$0 e$$\to$($+e$) + ($-e$) +$0e$,$0e$=$0e$, die Summe der Ladung bleibt gleich.
