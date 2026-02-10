@@ -8,4 +8,4 @@ Elektrizität
 Elektromagnetismus  
 Gravitationstheorie  
 
-*[credit / cr](./readme.md)*
+*[credit / cr](./README.md)*
