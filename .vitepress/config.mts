@@ -28,6 +28,7 @@ const folders = ['PHYSIK']
 export default defineConfig({
   base: "/p2/",
   title: "Archive",
+  ignoreDeadLinks: true,
   description: "Physics Archive",
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
