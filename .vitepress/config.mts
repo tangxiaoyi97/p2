@@ -23,7 +23,7 @@ const firstfile = (subDir: string) => {
   }
 }
 
-const folders = ['PHYSIK']
+const folders = ['physik']
 
 export default defineConfig({
   base: "/p2/",
@@ -47,11 +47,11 @@ export default defineConfig({
   },
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/physik/' },
-      { text: 'Weltbild', link: firstfile('physik/01 weltbild') },
-      { text: 'Elektrizität', link: firstfile('physik/02 elektrizitaet') },
-      { text: 'Elektromagnetismus', link: firstfile('physik/03 elektromagnetismus') },
-      { text: 'Gravitationstheorie', link: firstfile('physik/04 gravitationstheorie') }
+      { text: 'Home', link: '/' },
+      { text: 'Weltbild', link: firstfile('physik/01_weltbild') },
+      { text: 'Elektrizität', link: firstfile('physik/02_elektrizitaet') },
+      { text: 'Elektromagnetismus', link: firstfile('physik/03_elektromagnetismus') },
+      { text: 'Gravitationstheorie', link: firstfile('physik/04_gravitationstheorie') }
     ],
 sidebar: generateSidebar(
       folders.map(folder => ({
@@ -61,6 +61,7 @@ sidebar: generateSidebar(
         collapsed: true,
         hyphenToSpace: true,
         sortByFileName: true,
+        underscoreToSpace: true,
       }))
     ),
     socialLinks: [
