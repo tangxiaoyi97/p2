@@ -29,7 +29,7 @@ Eine Spannungsquelle ist in Reihe mit einem Widerstand und einem Amperemeter ges
 
 ## Messwerte für das Ohmsche Gesetz
 
-| Spannung $U$ [V]| Stromstärke $I$ [mA] |
+| Spannung $U$ \[V\]| Stromstärke $I$ \[mA\] |
 | ------------------ | ---------------------- |
 | 4,15               | 41,4                   |
 | 6.01               | 61,8                   |
