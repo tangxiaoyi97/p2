@@ -47,7 +47,7 @@ export default defineConfig({
   },
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/physik' },
+      { text: 'Home', link: '/physik&/' },
       { text: 'Weltbild', link: firstfile('physik/01 weltbild') },
       { text: 'Elektrizität', link: firstfile('physik/02 elektrizitaet') },
       { text: 'Elektromagnetismus', link: firstfile('physik/03 elektromagnetismus') },
