@@ -1,0 +1,30 @@
+---
+title: 05 Ørsted & Faraday
+tags:
+  - elektrizität 
+  - magnetismus 
+  - 7. Klasse
+---
+
+*~1820*
+
+
+**Ørsted** entdeckte bei seinen Experimenten zufällig ein Phänomen:  
+**==Jeder elektrische Strom erzeugt ein Magnetfeld==** *(E -> M)*.  
+Dieses Phänomen bestätigte die Mutmaßungen der frühen Romantiker.  
+
+**Markus Faraday** überlegt sich, ob es eine **Symmetrie** geben kann *(M <-> E)*:  
+==Wenn ein Stomfeld ein Magnetfeld erzeugen kann dann auch ein Magnetfeld ein Stromfeld Erzeugen.==  
+-> ==Es gibt elektrische und magnetische Felder.==
+
+## Elektromagnetische Induktion
+
+==Ein **veränderliches** Magnetfeld erzeugt elektrische Spannung== *(M -> E)*,  
+induziert in weiterer Folge elektrischen Strom *(Induktionsstrom)*. 
+
+---
+
+**Ørsted** und **Faraday** haben die ==**Symmetrie** elektrischen & magnetischer Phänomene== zum Ersten Mal erkannt.  
+
+$$\frac{\mathrm{d} {M}}{\mathrm{d}t} \to E , \frac{\mathrm{d} {E}}{\mathrm{d}t} \to M$$
+

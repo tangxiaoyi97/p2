@@ -1,0 +1,10 @@
+---
+title: 06 Bruno
+---
+
+*1548-1600*
+
+Alchemie & Astronom, Anhänger der heliozentrischen Weltbildes.  
+Bruno sagt dass die Universum unendlich groß ist und keine Fixsternsphäre gibt.  
+Da die Universum unendlich groß ist gibt es auch unendlich viele Sternen und auf den Sternen gibt es auch andere Menschheiten.  
+Wegen diese Aussage wurde er im 1600 verbrannt.

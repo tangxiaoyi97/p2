@@ -1,0 +1,9 @@
+---
+title: 07 Kepler
+---
+
+*1571-1630*
+
+Astronom & Mathematiker
+hat Informationen über Mars von Tycho Brake bekommen und zeichnet sie auf.  
+Er hat dann entdeckt dass die Planeten keine Kreisbahnen machen sonern auf Ellipsen.

@@ -1,0 +1,18 @@
+---
+title: 08 Newton & Einstein
+---
+
+*1643-1727* & *1915*
+
+Klassische Gravitationstheorie (-> Klassische Mechanik)
+
+
+
+## EINSTEIN
+aRT = allgemeine Relativitätstheorie (unsere best-funktionierende Theorie)
+
+$\forall$ Quanten-Gravitationstheorie
+
+
+
+*Pending completion*
