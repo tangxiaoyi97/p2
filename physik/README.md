@@ -20,4 +20,4 @@ Theme by [Raspberry](https://github.com/tangxiaoyi97/vitepress-Raspberry-theme)
 
 *Special thanks to all contributors and supporters of this project.*  
 
-*©ovm6u17 and all contributors*
+*©ovm6u17 and all contribut

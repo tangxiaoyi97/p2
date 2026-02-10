@@ -73,7 +73,6 @@ sidebar: generateSidebar(
         hyphenToSpace: true,
         sortByFileName: true,
         underscoreToSpace: true,
-        capitalizeFirst: true,
         includeRootIndexFile: false,
         removePrefixAfterMatch: true, 
         prefixSeparator: '_',
