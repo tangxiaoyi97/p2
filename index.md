@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Take a look
-      link: /PHYSIK/01-weltbild/01 weltbildstreit.md
+      link: /PHYSIK/01 weltbild/01 weltbildstreit.md
     - theme: alt
       text: index
       link: /PHYSIK/index.md
@@ -17,7 +17,7 @@ hero:
 features:
   - title: Pull from Github
     details: https://github.com/tangxiaoyi97
-  - title: report issue
+  - title: Report issue
     details: https://discord.gg/UuXvsXqH
 ---
 

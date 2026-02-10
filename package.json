@@ -5,6 +5,8 @@
     "docs:preview": "vitepress preview ."
   },
   "dependencies": {
+    "vp-raspberry": "github:tangxiaoyi97/vitepress-Raspberry-theme#master",
+    "vp-theme": "github:tangxiaoyi97/vitepress-Raspberry-theme#master",
     "vue": "^3.5.27"
   },
   "devDependencies": {
