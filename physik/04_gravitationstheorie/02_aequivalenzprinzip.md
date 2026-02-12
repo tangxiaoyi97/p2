@@ -6,24 +6,26 @@ title: Äquivalenzprinzip
 "Äquivalent" = Gleichwertigkeit
 
 ## Gedankenexperiment 1
+
 Gravitationsfeld & Beschleunigung:
 
 - Raumschiff A: steht still auf der Erdoberfläche, es wirkt Erdbeschleunigung  
   $g = 9{,}81 \,\mathrm{m/s^2}$  
-  *Antrieb deaktiviert*
+  _Antrieb deaktiviert_
 
 - Raumschiff B: fliegt im Weltraum mit der Beschleunigung  
   $a = 9{,}81 \,\mathrm{m/s^2}$  
-  *Antrieb aktiviert*
+  _Antrieb aktiviert_
 
 ## Gedankenexperiment 2
+
 Schwerelosigkeit:
 
 - Raumschiff A: schwebt im Weltraum (weit entfernt von Planeten, Gravitation  
   $F_g \approx 0$), mit der Beschleunigung  
   $a = 0 \,\mathrm{m/s^2}$  
-  *keine Beschleunigung* und Geschwindigkeit  
-  $v = \text{konstant}$  
+  _keine Beschleunigung_ und Geschwindigkeit  
+  $v = \text{const}$  
   **keine Schwerkraft**
 
 - Raumschiff B: befindet sich im freien Fall (ohne Luftreibung)  

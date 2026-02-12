@@ -1,26 +1,26 @@
 ---
 title: Ptolemaios
 ---
-*~100 AD.*
+
+_~100 AD._
 
 Astronom in Alexandria, Vertreter des geozentrisches Weltbildes  
 genaue Planetenbeobachtungen (zeichnet welche Bahnen die Planeten haben)  
 **Planeten - Ort**
 Verschiedene Zeiten - Verschieden Planeten  
-Viele Punkten werden verbunden und zur **Planeten Bahn**  
+Viele Punkten werden verbunden und zur **Planeten Bahn**
 
 Fokus auf **Mars** (zu welcher Zeit ist der Mars wo?) -> ::**Rückläufige Bahne**::
 
 **Ad Hoc Hypothese**
-*(ist eine Annahme, um eine Aussage zu stürzen)*
+_(ist eine Annahme, um eine Aussage zu stürzen)_
 
-## Erklärung nach Ptolemaios *(nur Behauptung)*
-
+## Erklärung nach Ptolemaios _(nur Behauptung)_
 
 ![Epizykel](../media/wb03epizykel.png)
 
 **Epizykel**: epi (auf) + zykel (Kreis) -> auf Kreis  
-*In der Zentrum des Epizykels ist __KEINE__ Masse, nur ein mathematisches Punkt*  
+_In der Zentrum des Epizykels ist **KEINE** Masse, nur ein mathematisches Punkt_
 
 Aesthetisch & theoretisch unbefriedigend, es liefert keine Erklärung,  
 hat aber ::Perfekt:: funktioniert -> Daher hats sich diese Theorie so lange gehalten
@@ -28,9 +28,8 @@ hat aber ::Perfekt:: funktioniert -> Daher hats sich diese Theorie so lange geha
 Es war wichtig für Seefahrt, Navigation, Bestimmung religiöse Feste (Ostern), Zeitmessung etc.
 
 <details>
-  <summary>Basiswissen 5 s56/4.1</summary>
+  <summary>Basiswissen 5 s56/4.1a</summary>
 
-![Basiswissen5s56/4.1](../media/basiswissen5s56_4.1.png)
+![Basiswissen5s56/4.1a](../media/basiswissen/basiswissen5s56_4.1a.png)
 
 </details>
-
