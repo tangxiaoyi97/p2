@@ -7,7 +7,16 @@ init, github pages
 *Migration*
 
 2026.02.12
-ligo-lisa
-zentripetalkraft
-newton
-kepler
+to be supp:  
+- ligo-lisa
+- zentripetalkraft (sketch)
+- newton (sketch)
+- kepler
+
+2026.02.13
+to be supp :
+- zentripetalkraft (rechenbeispiel)
+- ligo-lisa
+Completed:  
+- Newton
+- Kepler

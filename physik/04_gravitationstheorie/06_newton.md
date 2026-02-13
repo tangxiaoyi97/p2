@@ -18,12 +18,12 @@ Newton hat eine Formel gefunden, mit dem man die Gravitation (Kraft) zwischen mi
 z.B. 2 Planeten:
 
 $$
-F_g = G \frac{m_1 m_2}{r^2}
+F_G = G \frac{m_1 m_2}{r^2}
 $$
 
-graph
+![Gravitationsgesetzw](../media/sketches/newton01.png)
 
-$F_g \dots$ Gravitationskraft  
+$F_G \dots$ Gravitationskraft  
 $G \approx 6.674 \times 10^{-11} \text{ N}\cdot\text{m}^2/\text{kg}^2 \dots$ Gravitationskonstante  
 $m_1, m_2 \dots$ Massen von Objekten (hier: Planeten)  
 $r \dots$ Distanz zwischen den Massenmittelpunkten

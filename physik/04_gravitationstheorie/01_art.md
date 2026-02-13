@@ -26,6 +26,9 @@ Während einer Sonnenfinsternis beobachtete er die Sterne (am Tag) und vergleich
  $\rightarrow$ die Sterne erscheinen ==weiter vom Sonnen entfernt==.  
  Das Licht wird ==nach außen== gekrümmt.
 
+ 
+![Lichtablenkung im Gravitationsfeld](../media/sketches/art01.png)
+
 <details>
 <summary>basiswissen 8 s24/21.8a</summary>
 
@@ -55,8 +58,6 @@ Die Planetenbahn ändert sich – wieso?
 
 ### **Gravitationswelle**:
 
-graph
-
 1860 entdeckte Maxwell elektromagnetische Wellen  
  _(sichtbares Licht, Handysignale, Mikrowellen, Infrarot, UV usw.)_,  
  1915 von Einstein vorhergesagt,  
@@ -76,3 +77,6 @@ Maxwell: Beschleunigte Ladungen senden elektromagnetische Wellen aus.
  **Beschleunigte Massen senden Gravitationswellen aus.**
 
 Wobei $\mathrm{F_{EM}/F_G} \approx 10^{40}$ _(Gravitation ist eine sehr schwache Kraft)_, daher beobachten wir nur Schwarze Löcher, Neutronensterne, etc.
+
+
+![Gravitationswelle](../media/sketches/art02.png)

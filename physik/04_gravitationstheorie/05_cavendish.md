@@ -13,15 +13,14 @@ _Cavendish wollte die Dichte der Erde bestimmen und hat damit die Gravitationsko
 
 Im Experiment bestimmt er die Gravitationskraft zwischen 4 Kugeln. 2 schwere Kugeln sind am drehteller befestigt. 2 kleine Kugeln an einer drehbaren Stange, die an einem Torsionsfaden _(bzw. Verdrillungsfaden)_ befestigt war (Drehung in horizontaler Ebene).
 
-Da die Drehung der Stange extrem klein und unsichtbar ist, wird am Faden ein Spiegel befestigt, der die Drehung mitmacht $\rightarrow$ Leuchtet man auf den Spiegel, reflektiert dieser das Licht auf eine Projektionswand.
+![Experiment von Cavendish](../media/sketches/cavendish01.png)
 
-Je größer die Entfernung zwischen Spiegel und Projektionswand, umso mehr Weg legt der Lichtpunkt an der Wand zurück und umso besser kann man messen ($tan(\alpha)$).
+Da die Drehung der Stange extrem klein und unsichtbar ist, wird am Faden ein Spiegel befestigt, der die Drehung mitmacht $\rightarrow$ Leuchtet man auf den Spiegel, reflektiert dieser das Licht auf eine Projektionswand *(blau)*.
 
-Der Drehteller dient dazu den zu messenden Drehwinkel $\Theta$ _(Theta)_ zu verdoppeln, damit man leichter messen kann.
+Je größer die Entfernung zwischen Spiegel und Projektionswand, umso mehr Weg legt der Lichtpunkt an der Wand zurück und umso besser kann man messen ($tan(\theta)$). Spiegel dient dazu den zu messenden Drehwinkel $\Theta$ _(Theta)_ zu verdoppeln, damit man leichter messen kann.
 
-$$ tan (\alpha) = \frac{GK}{AK}$$
 
-graph
+$$ tan (\alpha) = \frac{b}{a}$$
 
 ### Interpretation
 
@@ -54,9 +53,9 @@ $\Theta \dots$ Verdrillungswinkel / Drehwinkel
 Um die Proportionalität herauszufinden, macht Cavendish ein Nebenexperiment:
 
 Er untersucht jetzt seinen Torsionsdraht mit einem Kraftmessgerät, das genaue Werte liefert.  
-Er misst Schritt für Schritt wie viel Kraft notwendig ist um den Torsionsdraht um den Winkel $\Theta$ zu verdrillen.
+Er misst Schritt für Schritt wie viel Kraft notwendig ist um den Torsionsdraht um den Winkel $\Theta$ zu verdrillen.  
 
-graph
+![Graph](../media/sketches/cavendish02.png)
 
 - linear
 - irgendein $\alpha$ (nicht unbedingt 45°)

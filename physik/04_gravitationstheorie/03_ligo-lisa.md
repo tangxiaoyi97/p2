@@ -2,14 +2,13 @@
 title: LIGO & LISA
 ---
 
-## LIGO
+*(To be supplemented)*
 
-## LISA
+**LIGO**: **L**aser **I**nterferometer **G**ravitationswelle **O**bserver
 
-System von 3 Satelliten die von der Erde nachgezogen werden.
+**LISA**: **L**aser **I**nterferometer **S**pace **A**ntenna
 
-graph
 
-_(Skizze: 3 Satelliten bilden ein Dreieck, verbunden durch Laserstrahlen, die der Erde auf ihrer Bahn um die Sonne folgen)_
+![LIGO & LISA](../media/sketches/ligo_lisa01.png)
 
-- Laserstrahlen zwischen den Satelliten.
+
