@@ -17,6 +17,6 @@ to be supp:
 to be supp :
 - zentripetalkraft (rechenbeispiel)
 - ligo-lisa
+- Kepler (3. law)
 Completed:  
 - Newton
-- Kepler
