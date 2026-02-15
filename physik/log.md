@@ -14,9 +14,12 @@ to be supp:
 - kepler
 
 2026.02.13
-to be supp :
+to be supp :  
 - zentripetalkraft (rechenbeispiel)
 - ligo-lisa
 - Kepler (3. law)
 Completed:  
 - Newton
+
+2026.02.15
+correction
