@@ -2,6 +2,8 @@
 title: Kepler
 ---
 
+<div v-pre>
+
 Kepler machte drei wesentliche Entdeckungen zur Planetenmechanik,  
 konnte jedoch keine physikalische Erklärung dafür liefern.  
 
@@ -122,11 +124,11 @@ wie die dritten Potenzen der großen Halbachsen $a_1, a_2$
 ihrer Bahnellipsen.**
 
 $$
-\frac{{T_1}^2}{{a_1}^3} =
-\frac{{T_2}^2}{{a_2}^3} =
-\frac{{T_3}^2}{{a_3}^3} =
+\frac{ {T_1}^2 }{ {a_1}^3 } =
+\frac{ {T_2}^2 }{ {a_2}^3 } =
+\frac{ {T_3}^2 }{ {a_3}^3 } =
 \dots =
-\frac{{T_8}^2}{{a_8}^3} = \text{const}
+\frac{ {T_8}^2 }{ {a_8}^3 } = \text{const}
 $$
 
 
@@ -134,3 +136,5 @@ $$
 
 Wir gehen von einer vereinfachten Annahme aus:  
 **Die Planetenbahn ist eine Kreisbahn mit festem Radius $r$.**
+
+</div>
