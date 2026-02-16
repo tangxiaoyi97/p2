@@ -135,6 +135,6 @@ $$
 *(8 für unser Sonnensystem)*
 
 Wir gehen von einer vereinfachten Annahme aus:  
-**Die Planetenbahn ist eine Kreisbahn mit festem Radius $r$.**
+==Die Planetenbahn ist eine Kreisbahn mit festem Radius $r$.==
 
 </div>
