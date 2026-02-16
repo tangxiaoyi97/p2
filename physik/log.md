@@ -21,5 +21,9 @@ to be supp :
 Completed:  
 - Newton
 
-2026.02.15
+2026.02.15  
 correction
+
+2025.02.16  
+regular
+kepler3
