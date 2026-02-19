@@ -2,19 +2,19 @@
 title: README
 ---
 # Credit & Copyright
-Any content inadvertently infringing on rights will be promptly addressed upon notification. If you believe any material is used improperly, please contact for resolution.
+Any content inadvertently infringing on rights will be promptly addressed upon notification. If you believe any material is used improperly, please contact for resolution.  
 
-*This site includes excerpts and annotations from copyrighted works; all such content remains the intellectual property of its respective owners. All references have been appropriately credited and, where appropriate, the source is noted directly below the content.*
+*This site includes excerpts and annotations from copyrighted works; all such content remains the intellectual property of its respective owners. All references have been appropriately credited and, where appropriate, the source is noted directly below the content.*  
 
 
-**Author**: ww / [唐晓翼](https://github.com/tangxiaoyi97)
+**Author**: ww / [唐晓翼](https://github.com/tangxiaoyi97)  
 **Powered by**: [Vitepress](https://github.com/vuejs/vitepress)  
-**Theme by**: [Raspberry](https://github.com/tangxiaoyi97/vitepress-Raspberry-theme)
+**Theme by**: [Raspberry](https://github.com/tangxiaoyi97/vitepress-Raspberry-theme)  
 
 **Contributors**:  
-@**SG MJ2026**
-@**Helmut L.** 
-@**Nick M.**
+@SG MJ2026  
+@Helmut L. 
+@Nick M.  
 
 <br>
 
