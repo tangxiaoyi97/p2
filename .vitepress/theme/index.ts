@@ -1,6 +1,6 @@
 import { h } from 'vue'
-import MyPhysicsTheme from 'vp-raspberry' 
+import raspberry from 'vp-raspberry' 
 
 export default {
-  extends: MyPhysicsTheme
+  extends: raspberry
 }
