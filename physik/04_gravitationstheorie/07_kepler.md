@@ -140,7 +140,7 @@ $$
 ### Herleitung der Formel
 
 Wir gehen von einer vereinfachten Annahme aus:  
-==Die Planetenbahn ist eine Kreisbahn mit festem Radius $r$.==
+==Die Planetenbahn ist eine Kreisbahn mit festem Radius $a = b = r$.==
 
 $$
 \omega = \frac{\varphi}{t} = \frac{2\pi}{T}
@@ -214,4 +214,43 @@ Konstante auf eine seite bringen:
 $$
 \frac{4\pi^2}{G M} = \frac{T^2}{r^3}
 $$
+
+Verallgemeinerung $r \rightarrow a$  
+
+$$
+\frac{4\pi^2}{G M} = \frac{T^2}{a^3}
+$$
+
+**Höllisch aufpassen**:  
+==Diese Formel gilt in allgemeinste weise dann, wenn ein Körper mit der Masse $M$ umkreist wird==.  
+
+Zum ersten Mal kann man damit die Masse des umkreisten Körpers bestimmen (aus Umlaufzeit und Bahnradius des umkreisenden Körpers).
+
+### Interpretation des Fromels in Allgemeinster Fall  
+Die Masse $M$ ist die Masse des umkreisten Körpers.  
+$T$ ist die Umlaufzeit des umkreisenden Körpers *(für einen vollständigen $360\degree$ Umlauf)*.  
+$a$ ist die große Halbachse der Bahn des umkreisenden Körpers. 
+
+| Umkreiste Masse $M$ | Galaxiezentrum        | Sonne    | Erde              | Jupiter        | Mond              |
+|--------------------|----------------------|----------|-------------------|----------------|-------------------|
+| Umkreisende Masse $m$ | Sterne der Galaxie | Planeten | Mond, Satelliten  | Jupitermonde   | Apollo-Raumschiff |
+
+Bezogen auf die Planeten Sonnensystems gilt:  
+
+$$
+\frac{ {T_1}^2 }{ {a_1}^3 } =
+\frac{ {T_2}^2 }{ {a_2}^3 } =
+\frac{ {T_3}^2 }{ {a_3}^3 } =
+\dots =
+\frac{ {T_8}^2 }{ {a_8}^3 } = 
+\frac{4\pi^2}{GM} = 
+\text{const}
+$$
+
+wobei  
+$T_1$ die Umlaufzeit und $a_1$ die große Halbachse des Merkur sind,  
+$T_2$ die Umlaufzeit und $a_2$ die große Halbachse der Venus sind,  
+$T_3$ die Umlaufzeit und $a_3$ die große Halbachse der Erde sind,  
+usw.
+
 </div>
