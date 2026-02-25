@@ -25,4 +25,7 @@ wh - herleitung satellit
 
 2025.02.24  
 regular kepler3
-wh - kepler123
+wh - kepler123  
+
+2025.02.25
+Geostationäre Satelliten
