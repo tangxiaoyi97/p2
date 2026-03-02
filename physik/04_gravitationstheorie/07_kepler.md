@@ -1,5 +1,5 @@
 ---
-title: Kepler
+title: Keplerschen Gesetze
 ---
 
 <div v-pre>

@@ -12,7 +12,6 @@ const firstfile = (subDir: string) => {
   const docsRoot = '.'
   const fullPath = path.resolve(process.cwd(), docsRoot, subDir)
   
-  // 获取路径的最后一部分，即文件夹名（例如 '01_weltbild'）
   const folderName = path.basename(subDir)
   
   try {
@@ -62,7 +61,8 @@ export default defineConfig({
       { text: 'Weltbild', link: firstfile('physik/01_weltbild') },
       { text: 'Elektrizität', link: firstfile('physik/02_elektrizitaet') },
       { text: 'Elektromagnetismus', link: firstfile('physik/03_elektromagnetismus') },
-      { text: 'Gravitationstheorie', link: firstfile('physik/04_gravitationstheorie') }
+      { text: 'Gravitationstheorie', link: firstfile('physik/04_gravitationstheorie') },
+      { text: 'Rätsel', link: firstfile('physik/99_raetsel') }
     ],
 sidebar: generateSidebar(
       folders.map(folder => ({

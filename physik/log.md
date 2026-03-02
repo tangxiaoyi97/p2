@@ -2,30 +2,40 @@
 title: Change Log
 ---
 
+to be supp:  
+-  zentripetalkraft rechenbeispiel  
+
+---
+
 2026.02.10
 init, github pages  
 *Migration*  
 
 2026.02.12  
-to be supp: ligo-lisa zentripetalkraft(sketch) newton(sketch) kepler  
+supp: ligo-lisa zentripetalkraft(sketch) newton(sketch) kepler  
 
 2026.02.13  
-to be supp: zentripetalkraft(rechenbeispiel) ligo-lisa Kepler(3. law)  
-Completed: Newton  
+supp: zentripetalkraft(rechenbeispiel) ligo-lisa Kepler3  
+new: Newton  
 
 2026.02.15  
 correction  
 
 2025.02.16  
-regular kepler3  
+new: regular kepler3  
 
 2025.02.18  
-regular kepler3  
+new: regular kepler3  
 wh - herleitung satellit  
 
 2025.02.24  
-regular kepler3
+new: regular kepler3  
 wh - kepler123  
 
-2025.02.25
-Geostationäre Satelliten
+2025.02.25  
+new: Geostationäre Satelliten  
+
+2026.03.02  
+new: rätsel  
+wh - kepler2 (rätsel)  
+*emfix style*  
