@@ -97,3 +97,13 @@ print(list(fibonacci(10)))
 
 [^1]:
 This is the footnote content. It should appear at the bottom of the page with a small font size.
+
+## 7. Extra  
+
+
+spoiler: <spoiler>LIZZZZZZARD</spoiler>  
+scribbled spoiler: <spoiler scribble>LIZZZZZZARD</spoiler>  
+
+<spoiler box title="spoiler box"> AHAHHAHHAHAHHAHA </spoiler>
+
+<spoiler box title="scribbled spoiler box" scribble> AHHAHAHAAHHAHAHHA </spoiler>

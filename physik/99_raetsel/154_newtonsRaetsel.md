@@ -7,7 +7,3 @@ Diese Frage beschäftigte Newton jahrelang: Eine kleine Masse m befindet sich in
 a) gestiegen  
 b) gefallen  
 c) unverändert geblieben  
-
-richtig: <spoiler>c</spoiler>
-
-<spoiler box title="Erklärung"> asdf </spoiler>
