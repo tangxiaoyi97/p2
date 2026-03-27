@@ -41,7 +41,7 @@ Umgerechnet in die gebräuchlichere Einheit $km/s$:
 
 $$v_F \approx 11,2 \, \text{km/s}$$
 
-11,2 km/s entsprechen etwa 40.320 km/h  
+11,2 km/s entsprechen etwa 40320 km/h  
 
 Wird diese Geschwindigkeit erreicht *(und vernachlässigt man den Luftwiderstand der Atmosphäre)*,  
-wird das Raumschiff **nie mehr von selbst** zur Erde zurückfallen.
+wird das Raumschiff **nie mehr von selbst** zur Erde zurückfallen
