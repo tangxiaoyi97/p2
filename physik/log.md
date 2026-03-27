@@ -22,20 +22,23 @@ new: Newton
 correction  
 
 2025.02.16  
-new: regular kepler3  
+new: kepler3  
 
 2025.02.18  
-new: regular kepler3  
+new: kepler3  
 wh - herleitung satellit  
 
 2025.02.24  
-new: regular kepler3  
+new: kepler3  
 wh - kepler123  
 
 2025.02.25  
-new: Geostationäre Satelliten  
+new: GeostationäreSatelliten  
 
 2026.03.02  
 new: rätsel  
 wh - kepler2 (rätsel)  
 *emfix style*  
+
+2026.03.27  
+new: fluchtgeschwindigkeit rechenaufgabeFluchtgeschwindigkeit  

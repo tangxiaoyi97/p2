@@ -13,11 +13,10 @@ Any content inadvertently infringing on rights will be promptly addressed upon n
 
 **Contributors**:  
 @SG MJ2026  
-@Helmut L. 
-@Nick M.  
+@Helmut L.  
+[@Nick M.](https://github.com/n1m055)  
 
 <br>
 
 *Special thanks to all contributors and supporters of this project.*  
-
-*©ovm6u17 and all contributors*
+*© all contributors*
