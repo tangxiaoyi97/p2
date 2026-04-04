@@ -37,6 +37,11 @@ const folders = ['physik']
 
 export default defineConfig({
   base: "/p2/",
+  vite: {
+    server: {
+      allowedHosts: true
+    }
+  },
   title: "Archive",
   ignoreDeadLinks: true,
   description: "Physics Archive",

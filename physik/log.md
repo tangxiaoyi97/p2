@@ -42,3 +42,6 @@ wh - kepler2 (rätsel)
 
 2026.03.27  
 new: fluchtgeschwindigkeit rechenaufgabeFluchtgeschwindigkeit  
+
+2026.04.04  
+Rätsellösungen vervollständigt    
