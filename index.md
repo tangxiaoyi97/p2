@@ -15,7 +15,7 @@ hero:
       link: /physik/index.md
 
 features:
-  - title: Pull from Github
+  - title: Fork from Github
     details: https://github.com/tangxiaoyi97
   - title: Report issue
     details: https://discord.gg/UuXvsXqH

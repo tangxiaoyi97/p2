@@ -45,3 +45,6 @@ new: fluchtgeschwindigkeit rechenaufgabeFluchtgeschwindigkeit
 
 2026.04.04  
 Rätsellösungen vervollständigt    
+
+2026.ß4.19  
+Schwarze Löcher
